@@ -12,8 +12,8 @@ function Header() {
 
         <div className="header__nav">
           <nav>
+            <a href="/#proyectos">Proyectos</a>
             <a href="/contacto">Contacto</a>
-            <a href="/#proyectos">Proyecto</a>
             <a href="https://github.com/IvanOrtizDAW">Github</a>
           </nav>
         </div>
